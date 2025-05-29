@@ -15,6 +15,27 @@
 - [x] 체크리스트 2
 
 ### 이미지 넣기
+![Image](https://github.com/user-attachments/assets/e4b02e04-410d-4818-a218-933dc75ac253)
+<img src="https://github.com/user-attachments/assets/e4b02e04-410d-4818-a218-933dc75ac253" style="width: 500px" />
+
+
+### 링크 적용
+https://github.com/jwebdew/readme-test/edit/main/README.md
+- [나의깃허브연결](https://github.com/jwebdew/readme-test/edit/main/README.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
